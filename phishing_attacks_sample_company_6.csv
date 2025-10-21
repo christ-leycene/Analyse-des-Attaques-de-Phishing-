@@ -1,0 +1,1001 @@
+date,target_type,channel,success,detection_time_hours
+2023-04-21,HR,social_media,failure,23.08
+2023-02-09,Finance,email,success,67.28
+2023-06-03,Finance,website,success,83.51
+2023-01-21,Executives,email,failure,27.25
+2023-02-22,General Staff,email,success,67.66
+2023-05-28,IT,sms,success,69.15
+2023-04-28,Finance,website,success,72.44
+2023-01-03,Finance,website,failure,20.93
+2023-03-24,General Staff,email,failure,15.85
+2023-01-22,General Staff,email,failure,23.56
+2023-03-22,Finance,email,failure,27.45
+2023-06-22,HR,website,failure,22.93
+2023-02-03,General Staff,email,failure,28.72
+2023-04-12,Finance,sms,failure,25.45
+2023-04-09,General Staff,email,failure,23.05
+2023-06-08,IT,website,success,74.17
+2023-01-07,Finance,social_media,failure,33.4
+2023-02-27,Executives,email,failure,23.87
+2023-01-08,General Staff,email,failure,31.67
+2023-01-06,IT,social_media,failure,27.94
+2023-05-06,HR,sms,failure,21.43
+2023-03-30,General Staff,email,failure,31.12
+2023-01-19,HR,website,failure,28.3
+2023-04-02,Finance,email,failure,24.36
+2023-06-23,Executives,sms,failure,26.27
+2023-05-12,Finance,email,success,79.73
+2023-06-09,IT,email,failure,23.53
+2023-01-18,General Staff,email,failure,34.63
+2023-03-14,HR,sms,failure,23.38
+2023-01-19,General Staff,email,failure,17.2
+2023-04-27,HR,website,failure,23.53
+2023-04-21,General Staff,sms,failure,19.72
+2023-06-30,HR,sms,failure,24.22
+2023-02-10,Executives,email,failure,22.14
+2023-03-22,HR,email,success,77.35
+2023-06-10,Executives,website,success,87.21
+2023-03-03,Finance,website,failure,21.64
+2023-01-26,General Staff,email,failure,27.62
+2023-05-27,HR,email,failure,29.3
+2023-05-08,HR,email,failure,24.98
+2023-05-23,General Staff,email,failure,18.31
+2023-06-19,HR,email,success,74.78
+2023-04-17,Executives,sms,success,69.97
+2023-03-27,HR,email,failure,20.27
+2023-01-27,General Staff,email,failure,22.67
+2023-01-18,HR,email,success,76.8
+2023-01-18,General Staff,email,failure,25.06
+2023-05-31,Finance,email,failure,23.08
+2023-03-23,General Staff,website,failure,23.57
+2023-02-05,Finance,email,failure,35.77
+2023-06-26,General Staff,social_media,failure,24.62
+2023-05-22,General Staff,email,failure,22.36
+2023-03-16,HR,sms,failure,17.99
+2023-05-23,Finance,sms,failure,28.18
+2023-05-15,General Staff,email,success,70.48
+2023-05-15,Finance,email,failure,21.71
+2023-03-13,HR,email,failure,17.49
+2023-03-30,General Staff,email,success,63.98
+2023-05-06,HR,email,success,66.69
+2023-04-27,IT,email,success,50.91
+2023-06-02,Finance,email,success,86.6
+2023-01-23,HR,email,failure,28.43
+2023-04-22,Executives,sms,success,61.19
+2023-03-20,Executives,sms,failure,21.04
+2023-04-25,IT,email,failure,16.46
+2023-01-31,Finance,email,success,81.85
+2023-03-01,IT,sms,failure,30.05
+2023-03-29,Executives,email,failure,17.98
+2023-06-07,General Staff,email,failure,24.42
+2023-01-13,HR,sms,failure,24.94
+2023-06-26,General Staff,email,success,59.59
+2023-05-27,Finance,email,failure,21.87
+2023-06-27,IT,sms,failure,24.46
+2023-05-02,HR,email,failure,16.56
+2023-03-30,HR,email,failure,27.28
+2023-02-11,Executives,sms,failure,32.76
+2023-01-16,Executives,email,failure,22.61
+2023-06-30,HR,email,failure,22.95
+2023-02-09,Finance,email,success,59.57
+2023-01-23,HR,email,failure,21.15
+2023-05-11,IT,website,failure,35.83
+2023-05-18,General Staff,email,success,76.33
+2023-05-29,HR,website,failure,23.75
+2023-06-12,HR,social_media,success,57.05
+2023-01-03,IT,email,failure,24.88
+2023-01-11,HR,email,success,54.0
+2023-05-01,HR,sms,success,68.25
+2023-04-24,Finance,email,failure,24.19
+2023-06-17,HR,website,failure,19.63
+2023-05-31,IT,email,failure,24.94
+2023-03-08,Finance,website,success,70.13
+2023-06-05,General Staff,email,failure,28.57
+2023-04-07,Finance,email,success,76.85
+2023-03-12,HR,sms,failure,28.71
+2023-01-23,Finance,email,failure,16.69
+2023-05-30,General Staff,email,failure,14.08
+2023-01-30,IT,email,failure,28.08
+2023-05-18,Finance,email,failure,22.53
+2023-02-24,General Staff,email,failure,24.09
+2023-02-05,General Staff,website,failure,27.03
+2023-03-28,Finance,email,failure,15.69
+2023-06-29,IT,website,failure,27.92
+2023-06-28,IT,email,success,86.05
+2023-04-04,IT,social_media,failure,22.22
+2023-05-09,IT,website,failure,32.84
+2023-02-24,Finance,email,failure,22.0
+2023-03-14,HR,social_media,success,61.96
+2023-03-30,IT,email,success,71.42
+2023-02-23,Finance,sms,failure,23.09
+2023-05-08,HR,email,failure,28.29
+2023-06-20,Finance,email,failure,26.63
+2023-01-03,HR,email,failure,32.41
+2023-03-11,General Staff,email,failure,30.18
+2023-05-16,Executives,email,failure,29.64
+2023-05-10,Executives,email,failure,23.83
+2023-02-07,Finance,email,failure,26.35
+2023-05-14,Finance,email,success,77.6
+2023-05-19,IT,email,failure,21.9
+2023-02-26,General Staff,sms,failure,17.58
+2023-04-03,Finance,email,success,82.65
+2023-01-28,General Staff,sms,failure,23.54
+2023-01-10,Finance,website,failure,24.28
+2023-03-12,IT,website,failure,17.81
+2023-06-20,IT,email,failure,32.25
+2023-01-03,HR,email,failure,15.58
+2023-04-05,IT,sms,failure,23.4
+2023-05-27,General Staff,website,failure,24.13
+2023-05-01,Finance,social_media,failure,21.19
+2023-03-27,Finance,email,failure,29.72
+2023-01-07,General Staff,email,failure,20.38
+2023-05-04,Finance,email,failure,18.24
+2023-04-28,Executives,email,success,78.96
+2023-03-04,IT,email,failure,21.93
+2023-05-27,HR,social_media,failure,19.96
+2023-03-12,Finance,sms,failure,22.02
+2023-02-01,HR,email,failure,28.14
+2023-06-30,HR,email,failure,19.83
+2023-01-16,Finance,website,failure,30.84
+2023-06-11,Executives,email,success,66.84
+2023-05-22,HR,email,failure,30.26
+2023-06-01,Finance,email,success,67.18
+2023-03-07,Finance,sms,failure,23.6
+2023-01-16,Finance,sms,failure,22.47
+2023-06-11,IT,email,success,78.1
+2023-04-13,General Staff,sms,success,66.38
+2023-05-02,General Staff,email,failure,23.31
+2023-02-20,IT,sms,success,59.91
+2023-03-04,General Staff,website,failure,18.45
+2023-03-28,Finance,website,failure,20.69
+2023-02-17,Finance,email,failure,17.6
+2023-03-26,Finance,email,failure,27.43
+2023-06-09,HR,email,failure,29.96
+2023-05-29,HR,sms,success,79.58
+2023-04-01,Executives,sms,failure,21.63
+2023-06-18,Finance,email,failure,21.41
+2023-03-10,HR,email,failure,18.49
+2023-06-20,Finance,email,failure,24.02
+2023-05-16,HR,email,failure,19.33
+2023-01-08,Finance,email,failure,31.4
+2023-04-18,General Staff,website,success,78.77
+2023-03-01,HR,email,success,76.44
+2023-02-22,HR,sms,success,73.29
+2023-05-04,Finance,email,failure,19.65
+2023-04-01,Finance,email,failure,19.36
+2023-04-14,General Staff,email,failure,31.21
+2023-06-05,Finance,email,failure,34.52
+2023-03-11,IT,email,failure,28.15
+2023-06-25,Finance,email,success,75.39
+2023-01-08,Finance,social_media,failure,22.98
+2023-05-13,HR,email,failure,18.39
+2023-05-29,Finance,email,failure,12.73
+2023-03-04,HR,sms,success,71.85
+2023-05-20,Finance,email,failure,22.55
+2023-03-31,General Staff,sms,success,85.45
+2023-05-30,General Staff,email,failure,22.41
+2023-06-06,General Staff,email,failure,19.85
+2023-04-30,Executives,email,failure,26.28
+2023-03-28,HR,website,failure,37.12
+2023-02-25,General Staff,sms,failure,23.79
+2023-06-22,HR,email,failure,25.5
+2023-01-19,Finance,email,failure,28.24
+2023-02-02,General Staff,social_media,success,68.88
+2023-06-29,General Staff,email,failure,29.66
+2023-02-04,HR,website,failure,17.59
+2023-01-05,Finance,sms,success,82.62
+2023-03-04,Finance,email,failure,20.82
+2023-01-18,Finance,sms,failure,25.83
+2023-04-02,Finance,email,success,80.9
+2023-05-23,General Staff,email,failure,30.69
+2023-02-24,IT,email,success,78.54
+2023-02-11,IT,website,failure,27.27
+2023-04-11,General Staff,email,success,76.24
+2023-06-10,General Staff,sms,failure,24.57
+2023-06-25,IT,email,success,75.27
+2023-02-27,HR,website,failure,23.22
+2023-03-27,HR,email,failure,33.04
+2023-03-01,General Staff,email,failure,35.61
+2023-03-11,Finance,email,failure,21.93
+2023-04-28,Finance,sms,failure,29.74
+2023-06-04,Finance,sms,failure,27.92
+2023-04-25,Executives,email,failure,19.16
+2023-06-01,Finance,sms,failure,29.38
+2023-03-28,General Staff,social_media,failure,17.62
+2023-05-28,Executives,email,failure,30.37
+2023-04-04,Finance,social_media,failure,14.71
+2023-06-29,IT,email,failure,28.22
+2023-02-01,Finance,email,failure,28.78
+2023-04-07,HR,email,failure,26.06
+2023-02-25,HR,email,failure,21.46
+2023-03-11,HR,email,success,65.81
+2023-05-20,Finance,social_media,failure,25.31
+2023-05-09,Finance,email,failure,36.27
+2023-04-23,Finance,sms,failure,26.82
+2023-06-04,Finance,social_media,success,69.89
+2023-06-07,General Staff,email,failure,24.24
+2023-05-30,Executives,website,failure,16.21
+2023-06-24,Finance,email,failure,21.57
+2023-03-20,Finance,email,failure,23.09
+2023-05-15,General Staff,social_media,failure,23.09
+2023-02-02,General Staff,email,failure,17.67
+2023-03-17,HR,email,failure,19.14
+2023-06-03,General Staff,email,failure,30.37
+2023-06-07,Finance,email,failure,21.64
+2023-03-04,HR,email,success,82.51
+2023-05-24,Executives,email,failure,27.06
+2023-02-27,HR,sms,success,82.96
+2023-01-15,IT,email,failure,21.38
+2023-04-11,Finance,email,success,82.31
+2023-01-28,General Staff,social_media,failure,17.92
+2023-05-30,Finance,email,failure,14.9
+2023-05-12,General Staff,email,failure,19.42
+2023-03-07,IT,social_media,failure,18.71
+2023-02-17,IT,email,failure,27.79
+2023-06-05,HR,email,failure,16.31
+2023-03-27,IT,sms,success,75.95
+2023-03-13,IT,sms,success,71.44
+2023-02-11,HR,email,failure,29.63
+2023-02-16,Finance,sms,failure,26.41
+2023-04-04,General Staff,website,failure,28.42
+2023-05-10,General Staff,sms,failure,17.63
+2023-02-06,HR,email,success,79.16
+2023-05-11,IT,email,failure,16.75
+2023-03-03,Finance,email,success,66.16
+2023-05-15,General Staff,email,failure,29.44
+2023-01-27,IT,email,failure,15.42
+2023-06-16,HR,social_media,failure,18.45
+2023-04-08,HR,email,failure,28.68
+2023-04-10,Finance,social_media,failure,29.61
+2023-06-06,Executives,email,success,64.02
+2023-01-21,Finance,sms,failure,22.63
+2023-03-13,IT,website,failure,23.04
+2023-04-14,Executives,sms,success,83.56
+2023-03-10,HR,email,success,65.57
+2023-05-12,IT,sms,success,69.93
+2023-01-14,Executives,email,failure,20.02
+2023-04-21,General Staff,email,failure,28.84
+2023-03-14,Finance,email,failure,31.93
+2023-04-08,Executives,email,failure,14.27
+2023-01-27,Finance,email,success,76.9
+2023-01-30,General Staff,email,success,67.63
+2023-04-11,HR,sms,failure,32.76
+2023-02-08,IT,email,failure,22.31
+2023-06-04,IT,email,failure,26.88
+2023-05-12,General Staff,email,success,78.6
+2023-05-19,Finance,sms,failure,22.95
+2023-06-03,Executives,email,failure,29.19
+2023-06-03,HR,sms,failure,32.58
+2023-05-29,General Staff,email,success,62.17
+2023-02-27,Finance,email,success,78.27
+2023-01-30,IT,sms,failure,21.12
+2023-01-05,IT,social_media,success,78.47
+2023-01-12,General Staff,sms,failure,17.74
+2023-05-02,Executives,email,failure,21.24
+2023-06-05,IT,email,failure,19.52
+2023-04-16,Finance,website,failure,23.88
+2023-05-16,Finance,social_media,failure,29.38
+2023-06-14,General Staff,email,failure,23.23
+2023-04-08,General Staff,email,failure,21.64
+2023-02-05,Finance,social_media,failure,26.88
+2023-05-29,IT,email,success,72.19
+2023-05-24,Finance,email,failure,20.27
+2023-06-08,HR,email,failure,32.37
+2023-06-29,HR,email,failure,30.72
+2023-05-31,IT,email,failure,26.17
+2023-03-02,IT,email,failure,24.43
+2023-06-04,Finance,email,failure,32.17
+2023-03-26,HR,email,success,65.3
+2023-06-02,Finance,email,failure,26.41
+2023-06-02,Finance,email,failure,25.74
+2023-03-01,General Staff,email,success,61.26
+2023-02-10,General Staff,sms,failure,28.36
+2023-03-18,General Staff,email,failure,24.9
+2023-05-18,Finance,social_media,failure,20.42
+2023-05-08,General Staff,website,failure,34.6
+2023-01-28,IT,sms,failure,28.84
+2023-03-30,HR,email,success,67.29
+2023-03-05,Finance,website,failure,18.52
+2023-04-19,Executives,email,success,60.65
+2023-01-24,Executives,email,failure,24.57
+2023-01-30,Finance,email,success,88.48
+2023-05-16,Finance,social_media,success,60.16
+2023-03-25,General Staff,email,failure,29.61
+2023-05-05,General Staff,email,failure,18.78
+2023-06-05,HR,social_media,failure,26.1
+2023-05-22,HR,sms,failure,24.17
+2023-01-23,Finance,email,failure,21.24
+2023-01-20,IT,email,failure,22.15
+2023-02-28,Finance,email,success,94.02
+2023-02-13,General Staff,email,failure,19.19
+2023-03-05,Finance,sms,failure,28.43
+2023-06-23,General Staff,email,failure,21.27
+2023-02-21,Executives,email,failure,18.89
+2023-01-22,IT,email,failure,17.65
+2023-01-20,General Staff,social_media,success,57.45
+2023-03-31,Finance,email,success,77.56
+2023-01-22,IT,email,success,83.46
+2023-06-12,Finance,email,failure,25.1
+2023-02-24,General Staff,email,failure,30.23
+2023-02-16,General Staff,email,failure,26.35
+2023-02-23,General Staff,sms,failure,17.38
+2023-03-11,Executives,sms,failure,27.58
+2023-06-02,IT,email,failure,25.26
+2023-03-06,Finance,sms,failure,25.53
+2023-01-29,General Staff,email,failure,15.65
+2023-05-30,General Staff,sms,failure,26.91
+2023-02-21,HR,email,failure,20.55
+2023-04-24,General Staff,sms,failure,25.61
+2023-01-11,Executives,email,failure,29.93
+2023-05-03,HR,website,failure,19.05
+2023-03-23,General Staff,email,failure,19.42
+2023-05-03,Finance,website,failure,24.15
+2023-05-27,Finance,social_media,failure,19.01
+2023-01-02,General Staff,email,failure,19.48
+2023-05-08,Finance,email,failure,21.84
+2023-06-02,HR,email,success,77.38
+2023-05-19,Finance,website,success,65.39
+2023-03-11,HR,email,failure,36.09
+2023-05-07,Finance,sms,failure,18.92
+2023-01-26,IT,email,failure,18.73
+2023-06-22,General Staff,sms,failure,12.65
+2023-04-14,General Staff,email,failure,26.25
+2023-01-15,Finance,sms,failure,32.23
+2023-05-31,Finance,email,failure,19.9
+2023-02-19,IT,email,failure,21.73
+2023-03-28,Executives,email,failure,29.09
+2023-04-07,Finance,email,success,73.79
+2023-01-25,Finance,sms,failure,25.74
+2023-03-25,HR,social_media,failure,23.68
+2023-05-09,IT,website,failure,21.97
+2023-05-12,General Staff,email,success,69.12
+2023-06-03,General Staff,social_media,failure,28.12
+2023-02-02,Finance,social_media,failure,29.84
+2023-06-15,IT,email,failure,31.42
+2023-06-13,General Staff,email,success,62.25
+2023-03-08,HR,sms,success,75.79
+2023-03-21,General Staff,sms,failure,24.47
+2023-06-15,General Staff,social_media,success,73.69
+2023-04-06,General Staff,email,failure,23.9
+2023-03-02,General Staff,email,success,66.36
+2023-02-05,HR,sms,failure,25.12
+2023-03-11,HR,email,failure,19.74
+2023-03-22,Finance,sms,failure,25.2
+2023-05-04,Finance,email,failure,17.4
+2023-02-22,HR,sms,failure,21.83
+2023-05-31,General Staff,sms,failure,28.52
+2023-03-04,HR,sms,failure,28.61
+2023-03-13,General Staff,email,failure,26.83
+2023-06-11,IT,social_media,failure,18.69
+2023-06-08,Finance,sms,failure,29.41
+2023-05-18,General Staff,email,failure,29.75
+2023-06-19,IT,email,failure,16.16
+2023-06-30,HR,email,failure,28.2
+2023-02-25,Finance,email,failure,31.32
+2023-06-08,Finance,email,failure,25.27
+2023-04-04,HR,social_media,failure,27.66
+2023-04-26,Finance,email,failure,28.49
+2023-06-29,Finance,social_media,failure,24.3
+2023-03-14,General Staff,email,failure,26.6
+2023-04-26,IT,email,failure,20.95
+2023-01-07,IT,email,failure,29.52
+2023-04-22,HR,sms,success,46.43
+2023-05-04,Finance,website,failure,27.51
+2023-02-15,HR,email,failure,16.71
+2023-02-27,Executives,sms,success,67.12
+2023-04-22,Finance,website,failure,26.64
+2023-01-28,General Staff,email,failure,19.67
+2023-01-15,General Staff,email,failure,31.24
+2023-06-27,Finance,email,failure,25.82
+2023-06-25,HR,sms,success,82.46
+2023-04-15,General Staff,website,failure,29.56
+2023-04-12,Finance,email,failure,17.82
+2023-05-12,HR,email,failure,20.55
+2023-03-23,Finance,sms,failure,25.89
+2023-03-12,Finance,sms,failure,26.15
+2023-05-30,General Staff,email,failure,20.92
+2023-05-30,Finance,website,failure,23.35
+2023-03-18,General Staff,website,failure,22.36
+2023-02-16,General Staff,email,failure,14.97
+2023-04-13,HR,social_media,success,76.45
+2023-05-22,Finance,email,success,53.24
+2023-03-01,General Staff,email,failure,19.08
+2023-04-01,General Staff,email,failure,26.05
+2023-03-02,Finance,email,success,66.09
+2023-03-08,Finance,social_media,success,75.43
+2023-02-11,Executives,email,failure,21.7
+2023-05-13,HR,sms,failure,29.91
+2023-02-14,Executives,email,failure,22.87
+2023-01-09,Finance,email,failure,26.97
+2023-03-18,HR,sms,failure,22.49
+2023-06-14,IT,sms,failure,20.83
+2023-02-25,HR,email,failure,30.91
+2023-03-10,HR,email,failure,22.52
+2023-01-08,General Staff,sms,success,75.82
+2023-05-07,HR,website,failure,21.55
+2023-04-08,General Staff,email,failure,31.09
+2023-04-20,HR,email,failure,25.7
+2023-01-27,General Staff,email,success,74.91
+2023-04-05,Finance,email,failure,22.08
+2023-04-30,Finance,email,failure,25.11
+2023-03-08,IT,email,success,65.3
+2023-01-24,General Staff,sms,failure,27.16
+2023-02-19,General Staff,email,success,70.63
+2023-06-27,Finance,email,failure,33.04
+2023-04-30,HR,email,failure,30.53
+2023-05-04,HR,email,failure,30.29
+2023-04-14,IT,social_media,failure,28.49
+2023-04-01,Executives,email,success,84.2
+2023-01-27,General Staff,social_media,success,70.93
+2023-01-28,General Staff,email,success,66.64
+2023-03-04,General Staff,sms,failure,22.52
+2023-01-19,Finance,email,failure,25.33
+2023-05-13,General Staff,email,failure,27.83
+2023-05-11,HR,email,failure,26.39
+2023-04-22,Finance,email,success,70.55
+2023-05-10,Finance,email,success,66.16
+2023-05-25,HR,email,success,79.27
+2023-06-29,General Staff,email,success,77.33
+2023-04-06,IT,email,failure,20.83
+2023-03-08,Executives,email,success,79.21
+2023-02-18,Finance,email,success,85.35
+2023-03-20,IT,email,failure,26.9
+2023-06-12,IT,email,failure,14.0
+2023-05-28,HR,sms,failure,39.23
+2023-05-26,General Staff,sms,failure,27.65
+2023-02-11,General Staff,website,failure,19.07
+2023-01-22,Executives,social_media,success,72.49
+2023-01-18,Finance,sms,failure,23.84
+2023-01-17,General Staff,email,failure,22.18
+2023-01-31,Executives,website,failure,18.92
+2023-05-10,General Staff,email,success,62.16
+2023-03-28,HR,email,failure,29.43
+2023-03-03,Executives,email,failure,16.8
+2023-04-23,Finance,email,failure,23.48
+2023-04-02,General Staff,email,failure,23.73
+2023-06-20,Executives,website,success,82.35
+2023-04-03,Executives,email,failure,11.68
+2023-06-22,General Staff,email,failure,23.79
+2023-05-03,IT,email,success,82.98
+2023-01-29,General Staff,sms,failure,22.61
+2023-03-01,HR,social_media,failure,30.74
+2023-03-09,Finance,email,failure,25.1
+2023-03-15,Finance,social_media,failure,20.36
+2023-05-18,General Staff,email,failure,22.02
+2023-05-10,Executives,email,failure,25.48
+2023-06-05,Finance,email,success,75.97
+2023-01-21,HR,email,success,61.27
+2023-06-13,Executives,email,failure,20.64
+2023-04-19,General Staff,website,failure,23.29
+2023-02-21,HR,website,failure,27.61
+2023-03-09,IT,email,success,61.85
+2023-05-23,Executives,email,failure,28.41
+2023-06-18,Finance,email,failure,23.18
+2023-05-05,General Staff,email,success,56.54
+2023-03-27,IT,email,failure,17.41
+2023-06-04,HR,email,failure,28.71
+2023-05-14,Finance,email,failure,27.33
+2023-04-11,IT,social_media,failure,27.86
+2023-01-23,HR,social_media,failure,18.62
+2023-01-09,General Staff,website,failure,22.84
+2023-04-13,IT,website,success,78.2
+2023-05-22,IT,sms,failure,24.79
+2023-02-07,Finance,social_media,success,76.59
+2023-06-13,Finance,sms,success,62.66
+2023-05-21,General Staff,email,failure,30.7
+2023-06-05,Executives,email,failure,19.8
+2023-02-15,Finance,website,failure,25.09
+2023-04-24,Finance,email,failure,15.26
+2023-06-06,HR,email,failure,21.95
+2023-02-20,Finance,sms,success,48.34
+2023-03-07,Finance,website,success,68.65
+2023-06-11,General Staff,email,failure,21.56
+2023-04-08,Finance,email,failure,22.55
+2023-03-01,HR,sms,failure,33.95
+2023-06-15,Finance,website,failure,24.09
+2023-04-15,General Staff,email,success,70.48
+2023-03-06,General Staff,social_media,failure,12.48
+2023-01-02,General Staff,email,failure,27.29
+2023-06-21,HR,sms,failure,25.78
+2023-06-30,Executives,email,failure,24.56
+2023-03-08,HR,email,failure,24.03
+2023-05-05,General Staff,social_media,failure,34.81
+2023-05-17,General Staff,email,failure,19.03
+2023-03-06,General Staff,sms,success,83.54
+2023-02-10,IT,sms,failure,19.26
+2023-02-14,Executives,email,failure,26.08
+2023-03-25,Finance,sms,success,66.34
+2023-06-16,HR,sms,success,72.61
+2023-06-04,Finance,sms,failure,29.19
+2023-01-30,IT,email,failure,29.69
+2023-04-02,HR,email,success,89.47
+2023-04-30,Executives,sms,success,64.12
+2023-02-28,HR,email,success,65.17
+2023-01-26,Executives,email,success,55.99
+2023-04-23,Finance,email,failure,18.65
+2023-04-26,IT,email,failure,20.62
+2023-05-07,General Staff,website,failure,24.26
+2023-01-13,Finance,email,failure,19.57
+2023-01-26,Finance,email,failure,30.58
+2023-04-18,Finance,email,success,55.43
+2023-03-05,Finance,sms,success,77.14
+2023-02-16,IT,email,success,61.81
+2023-05-01,Finance,email,success,82.33
+2023-02-06,HR,social_media,failure,25.04
+2023-04-14,Finance,email,failure,18.59
+2023-01-21,General Staff,sms,success,70.42
+2023-04-04,HR,sms,failure,20.66
+2023-03-07,HR,email,failure,15.68
+2023-06-18,Executives,email,success,66.53
+2023-06-15,General Staff,email,failure,26.29
+2023-03-09,General Staff,email,failure,19.82
+2023-02-04,General Staff,email,success,55.72
+2023-04-28,Finance,website,failure,24.8
+2023-06-24,HR,email,success,71.55
+2023-03-16,General Staff,sms,failure,28.77
+2023-06-02,Executives,social_media,failure,17.48
+2023-01-16,General Staff,sms,failure,25.1
+2023-01-10,General Staff,email,failure,26.88
+2023-01-05,General Staff,social_media,success,64.74
+2023-01-10,Finance,email,success,86.1
+2023-03-28,IT,email,success,76.63
+2023-03-18,Finance,social_media,failure,23.27
+2023-01-07,Executives,social_media,failure,28.67
+2023-05-26,HR,website,success,58.82
+2023-03-27,Finance,email,success,68.77
+2023-02-14,Finance,social_media,failure,28.56
+2023-05-20,HR,email,success,75.31
+2023-02-05,Executives,email,success,72.12
+2023-01-18,Finance,social_media,failure,23.99
+2023-06-14,IT,email,success,91.03
+2023-01-25,IT,email,failure,29.89
+2023-02-27,Finance,sms,failure,18.96
+2023-04-03,General Staff,email,failure,21.58
+2023-06-29,IT,email,failure,16.65
+2023-02-19,General Staff,sms,failure,27.63
+2023-02-18,IT,sms,failure,27.66
+2023-05-16,General Staff,email,success,72.52
+2023-03-13,HR,email,failure,16.92
+2023-04-06,HR,email,failure,29.04
+2023-03-06,Finance,email,failure,28.37
+2023-06-09,General Staff,social_media,success,61.59
+2023-03-13,Finance,sms,failure,24.34
+2023-05-22,General Staff,email,success,67.99
+2023-05-22,Finance,website,failure,21.96
+2023-03-31,Executives,website,failure,18.95
+2023-05-07,General Staff,email,success,68.17
+2023-01-23,Finance,sms,failure,21.77
+2023-02-25,General Staff,email,failure,31.76
+2023-03-12,IT,sms,failure,21.92
+2023-05-13,Finance,email,failure,29.22
+2023-01-03,HR,sms,failure,27.8
+2023-04-11,General Staff,sms,failure,22.27
+2023-05-31,Finance,sms,success,85.9
+2023-05-24,HR,email,failure,19.51
+2023-03-10,IT,email,failure,17.03
+2023-04-27,Executives,email,success,68.67
+2023-06-18,Finance,sms,success,76.25
+2023-02-12,Finance,sms,success,55.06
+2023-06-04,General Staff,email,failure,22.91
+2023-06-19,IT,email,success,74.05
+2023-03-28,Executives,website,success,61.02
+2023-03-21,HR,email,failure,27.58
+2023-03-08,HR,email,failure,24.48
+2023-06-18,Finance,sms,failure,31.47
+2023-03-07,IT,email,failure,26.5
+2023-01-19,General Staff,email,failure,30.07
+2023-01-20,General Staff,email,failure,19.38
+2023-02-02,Finance,email,failure,25.75
+2023-03-17,Finance,website,failure,23.52
+2023-06-29,Finance,email,failure,24.55
+2023-06-24,General Staff,website,failure,19.99
+2023-06-30,Finance,email,failure,25.99
+2023-02-10,General Staff,social_media,success,70.25
+2023-04-11,IT,website,success,58.32
+2023-05-13,Finance,email,failure,25.21
+2023-03-25,General Staff,website,failure,27.64
+2023-04-05,HR,email,success,75.86
+2023-04-18,IT,email,success,68.63
+2023-03-25,Finance,email,failure,22.13
+2023-01-30,General Staff,email,success,52.33
+2023-04-15,HR,website,failure,25.74
+2023-03-05,General Staff,sms,failure,22.8
+2023-06-08,Finance,sms,failure,31.09
+2023-04-12,IT,email,failure,29.45
+2023-02-17,HR,website,failure,30.37
+2023-05-23,Executives,email,success,64.73
+2023-01-08,HR,sms,failure,12.31
+2023-06-15,Finance,sms,failure,25.7
+2023-06-11,HR,sms,failure,19.21
+2023-06-11,Finance,email,failure,21.63
+2023-01-31,General Staff,email,failure,28.05
+2023-03-13,General Staff,website,failure,23.37
+2023-03-21,Executives,email,failure,27.54
+2023-06-05,Executives,sms,success,71.73
+2023-05-04,Finance,social_media,success,58.17
+2023-06-24,General Staff,email,success,77.54
+2023-02-01,HR,email,failure,30.88
+2023-06-08,IT,sms,failure,29.63
+2023-02-11,Finance,email,failure,27.44
+2023-01-26,Finance,email,success,60.16
+2023-04-07,General Staff,sms,failure,28.43
+2023-05-02,Finance,email,failure,25.96
+2023-02-06,IT,sms,failure,28.32
+2023-04-02,Finance,email,failure,25.35
+2023-06-18,IT,email,failure,28.2
+2023-06-16,General Staff,email,failure,21.95
+2023-05-25,Finance,email,failure,14.36
+2023-02-27,HR,website,failure,22.06
+2023-05-31,Finance,sms,success,77.4
+2023-01-07,General Staff,website,failure,28.63
+2023-05-11,General Staff,email,failure,22.21
+2023-03-05,Finance,email,failure,19.08
+2023-06-07,Finance,email,failure,22.95
+2023-04-01,Finance,website,success,60.33
+2023-01-14,HR,email,success,60.63
+2023-02-03,Finance,email,failure,29.37
+2023-01-29,General Staff,website,failure,15.76
+2023-01-30,HR,email,success,74.64
+2023-02-10,IT,email,success,70.41
+2023-03-20,General Staff,email,failure,24.01
+2023-02-26,Finance,email,failure,29.9
+2023-06-20,General Staff,social_media,success,89.65
+2023-06-23,Finance,sms,success,73.77
+2023-03-09,Finance,email,failure,21.77
+2023-01-28,General Staff,website,failure,30.85
+2023-04-13,HR,social_media,failure,31.21
+2023-01-03,General Staff,sms,failure,24.33
+2023-01-06,Finance,email,success,66.8
+2023-06-19,Executives,sms,success,82.79
+2023-02-27,General Staff,email,failure,24.13
+2023-05-21,Executives,website,success,66.84
+2023-02-24,IT,sms,failure,31.27
+2023-05-22,Finance,social_media,failure,17.38
+2023-02-04,HR,email,failure,26.89
+2023-06-28,General Staff,email,failure,32.75
+2023-01-02,Finance,sms,success,56.63
+2023-05-02,Finance,social_media,success,61.47
+2023-02-26,HR,social_media,success,67.58
+2023-04-11,HR,email,failure,23.04
+2023-05-17,General Staff,email,success,75.47
+2023-05-07,Finance,website,failure,20.65
+2023-03-14,General Staff,email,failure,23.73
+2023-06-23,Executives,sms,failure,15.73
+2023-05-02,General Staff,email,failure,26.61
+2023-05-23,Executives,email,failure,28.77
+2023-03-25,Executives,email,failure,27.43
+2023-03-05,HR,email,failure,25.49
+2023-05-31,Finance,email,failure,25.55
+2023-05-17,Finance,sms,failure,30.97
+2023-05-03,General Staff,email,success,82.17
+2023-04-29,HR,email,failure,33.5
+2023-01-27,General Staff,social_media,success,77.16
+2023-04-22,IT,email,failure,23.4
+2023-06-08,Finance,sms,success,81.55
+2023-01-31,General Staff,email,success,92.05
+2023-03-28,General Staff,sms,failure,30.79
+2023-03-05,Finance,sms,success,70.05
+2023-03-02,General Staff,email,failure,22.24
+2023-03-28,Finance,email,failure,10.25
+2023-03-26,IT,email,success,79.22
+2023-06-12,Finance,email,failure,26.62
+2023-04-13,Finance,email,failure,23.08
+2023-05-25,Executives,website,failure,17.88
+2023-04-03,Finance,email,failure,29.07
+2023-02-18,HR,email,failure,16.82
+2023-03-10,IT,sms,failure,18.73
+2023-02-12,IT,social_media,failure,29.67
+2023-01-14,HR,email,failure,28.53
+2023-06-10,HR,email,failure,24.42
+2023-05-01,Finance,social_media,failure,32.62
+2023-05-04,Executives,email,failure,20.0
+2023-02-28,Executives,email,success,69.0
+2023-05-06,General Staff,email,failure,21.03
+2023-03-31,IT,email,failure,19.06
+2023-05-22,HR,website,failure,20.54
+2023-06-05,Finance,email,success,62.72
+2023-06-04,General Staff,email,success,88.7
+2023-04-28,Finance,email,failure,29.29
+2023-01-09,HR,email,success,88.02
+2023-05-16,IT,email,failure,22.86
+2023-06-08,HR,sms,success,72.62
+2023-04-19,Finance,email,failure,24.49
+2023-02-02,IT,email,success,75.75
+2023-06-16,Finance,social_media,failure,21.88
+2023-06-28,General Staff,email,failure,23.0
+2023-06-14,HR,email,success,64.57
+2023-05-09,Finance,email,success,54.26
+2023-05-25,Finance,email,failure,28.46
+2023-06-07,Finance,email,failure,27.67
+2023-04-15,Finance,email,success,77.78
+2023-01-21,Finance,website,failure,34.7
+2023-05-22,Executives,website,failure,21.74
+2023-04-20,General Staff,email,success,70.68
+2023-01-18,HR,email,failure,21.93
+2023-01-24,IT,email,failure,24.19
+2023-06-16,Finance,email,failure,20.99
+2023-01-01,HR,sms,success,76.74
+2023-03-10,IT,website,failure,25.22
+2023-05-07,Finance,sms,failure,22.54
+2023-05-04,IT,sms,failure,37.32
+2023-03-02,Executives,email,failure,21.94
+2023-04-12,IT,email,failure,26.76
+2023-06-28,General Staff,social_media,failure,29.04
+2023-01-30,General Staff,email,success,69.87
+2023-01-21,IT,email,failure,24.97
+2023-05-16,Executives,email,failure,21.21
+2023-03-11,General Staff,email,failure,23.92
+2023-01-27,IT,email,failure,28.02
+2023-01-05,General Staff,email,success,66.3
+2023-02-28,IT,email,failure,15.89
+2023-01-07,General Staff,website,failure,26.02
+2023-05-26,HR,email,failure,17.96
+2023-04-26,Finance,email,success,60.92
+2023-02-10,Finance,sms,failure,24.63
+2023-05-24,Finance,email,success,65.89
+2023-01-31,General Staff,sms,failure,23.32
+2023-02-13,HR,email,failure,20.86
+2023-06-09,Finance,email,failure,26.59
+2023-04-10,HR,social_media,failure,21.72
+2023-06-22,IT,email,failure,22.25
+2023-01-15,Executives,email,failure,24.48
+2023-01-27,Finance,sms,failure,29.79
+2023-03-03,Executives,email,failure,23.89
+2023-04-13,General Staff,website,failure,19.26
+2023-01-28,HR,social_media,success,64.65
+2023-06-25,Finance,social_media,failure,28.73
+2023-02-22,HR,social_media,success,68.16
+2023-05-11,HR,email,success,68.63
+2023-06-23,General Staff,email,failure,14.94
+2023-01-18,HR,email,failure,25.59
+2023-01-15,Finance,email,failure,16.09
+2023-03-31,IT,email,failure,24.35
+2023-02-14,Executives,email,failure,12.52
+2023-06-24,General Staff,email,failure,20.24
+2023-06-01,General Staff,email,failure,26.17
+2023-03-28,General Staff,website,failure,28.42
+2023-02-21,Executives,sms,failure,30.43
+2023-01-29,Finance,social_media,failure,31.0
+2023-01-04,General Staff,email,success,60.1
+2023-04-05,Finance,email,failure,24.97
+2023-03-27,General Staff,website,failure,29.11
+2023-06-21,HR,email,failure,28.99
+2023-01-14,General Staff,email,failure,23.14
+2023-01-04,General Staff,sms,failure,15.96
+2023-06-05,Finance,email,failure,30.06
+2023-03-23,Finance,email,success,70.23
+2023-03-16,IT,sms,success,85.51
+2023-06-26,IT,sms,failure,28.75
+2023-06-10,IT,email,success,86.99
+2023-04-03,IT,email,success,73.6
+2023-04-29,HR,email,failure,32.76
+2023-01-03,General Staff,website,failure,22.37
+2023-01-08,Finance,website,success,66.32
+2023-06-19,General Staff,website,failure,19.47
+2023-06-14,Finance,email,success,41.64
+2023-04-05,Finance,website,failure,22.03
+2023-06-16,IT,sms,failure,21.83
+2023-01-31,General Staff,email,success,61.34
+2023-06-16,General Staff,sms,failure,21.26
+2023-06-22,Executives,email,failure,31.17
+2023-03-07,General Staff,sms,success,69.3
+2023-05-21,Executives,sms,failure,18.2
+2023-01-07,IT,email,failure,24.87
+2023-04-14,Finance,email,success,52.68
+2023-06-08,Finance,email,failure,24.06
+2023-03-07,General Staff,email,failure,21.84
+2023-03-14,Finance,email,failure,20.15
+2023-02-27,Finance,social_media,failure,25.19
+2023-01-15,Finance,email,failure,31.2
+2023-01-30,Executives,email,failure,15.86
+2023-03-30,Executives,email,success,62.34
+2023-06-24,Finance,email,failure,18.89
+2023-05-26,Executives,social_media,success,64.34
+2023-05-13,Finance,email,failure,24.66
+2023-03-10,IT,sms,failure,24.52
+2023-02-17,Executives,email,success,74.19
+2023-06-10,Finance,email,failure,24.49
+2023-04-22,Finance,sms,failure,21.95
+2023-05-25,Finance,email,failure,22.3
+2023-06-01,Finance,email,failure,20.59
+2023-05-21,HR,email,failure,20.87
+2023-01-05,IT,email,failure,25.56
+2023-06-29,General Staff,email,success,65.05
+2023-04-29,Finance,sms,success,83.18
+2023-06-27,IT,sms,failure,29.38
+2023-05-11,Executives,email,failure,22.78
+2023-02-02,Finance,sms,failure,26.12
+2023-03-15,HR,email,success,59.89
+2023-04-23,HR,email,failure,30.11
+2023-06-11,HR,email,success,81.83
+2023-05-23,HR,social_media,success,78.27
+2023-02-10,Executives,email,failure,19.12
+2023-03-20,Executives,sms,failure,29.7
+2023-05-07,General Staff,sms,success,55.42
+2023-04-27,HR,email,failure,18.96
+2023-06-23,Finance,sms,failure,29.76
+2023-02-28,Finance,email,failure,31.69
+2023-06-25,Finance,website,success,75.23
+2023-01-01,IT,email,failure,15.03
+2023-04-08,General Staff,sms,success,81.53
+2023-04-17,General Staff,email,failure,29.51
+2023-03-11,IT,email,failure,18.48
+2023-03-25,General Staff,sms,failure,21.72
+2023-04-07,Finance,sms,success,68.75
+2023-03-13,IT,email,failure,22.35
+2023-01-08,General Staff,email,success,63.24
+2023-02-11,Finance,website,success,62.33
+2023-02-17,IT,email,failure,25.08
+2023-01-25,Finance,email,failure,34.07
+2023-05-29,Finance,sms,failure,20.5
+2023-06-18,Finance,social_media,failure,31.77
+2023-06-03,Finance,email,failure,27.69
+2023-03-16,Executives,email,failure,25.05
+2023-03-23,HR,sms,failure,25.06
+2023-02-09,IT,email,failure,16.21
+2023-06-13,General Staff,email,failure,15.91
+2023-02-14,General Staff,email,success,88.3
+2023-05-05,Finance,email,failure,27.11
+2023-04-22,HR,social_media,failure,25.85
+2023-03-10,Finance,social_media,success,69.07
+2023-04-04,IT,website,success,53.56
+2023-02-08,HR,email,failure,25.91
+2023-06-26,HR,email,success,89.07
+2023-04-09,General Staff,email,failure,19.06
+2023-02-11,Executives,social_media,failure,22.27
+2023-04-30,IT,email,success,75.93
+2023-04-30,Finance,social_media,failure,30.0
+2023-06-06,HR,email,failure,18.24
+2023-02-22,Finance,social_media,success,70.92
+2023-06-09,Finance,social_media,success,58.0
+2023-03-04,IT,sms,success,79.3
+2023-06-11,General Staff,email,failure,25.67
+2023-02-22,General Staff,sms,failure,26.52
+2023-06-12,Executives,website,failure,24.96
+2023-06-15,HR,website,failure,20.56
+2023-05-05,General Staff,email,failure,23.67
+2023-03-05,IT,email,success,68.6
+2023-06-26,IT,email,failure,26.74
+2023-04-08,General Staff,email,failure,24.86
+2023-02-14,General Staff,sms,failure,22.25
+2023-05-28,HR,sms,failure,18.42
+2023-06-27,Finance,sms,success,65.29
+2023-02-08,HR,email,success,52.05
+2023-03-29,Executives,email,success,64.59
+2023-03-06,HR,email,success,65.81
+2023-01-03,General Staff,email,failure,23.81
+2023-04-05,Executives,email,failure,27.77
+2023-04-06,General Staff,website,failure,17.53
+2023-03-01,General Staff,social_media,failure,23.17
+2023-06-24,IT,email,failure,27.83
+2023-04-06,Executives,email,failure,23.04
+2023-06-13,Finance,email,failure,24.04
+2023-04-01,Finance,social_media,failure,18.87
+2023-03-06,Finance,sms,success,72.53
+2023-04-02,IT,email,failure,30.32
+2023-05-12,Finance,sms,failure,23.25
+2023-01-30,IT,email,failure,21.85
+2023-06-09,General Staff,email,failure,27.46
+2023-05-08,IT,sms,failure,18.93
+2023-04-25,General Staff,sms,failure,30.08
+2023-01-06,HR,email,failure,22.56
+2023-03-11,Finance,email,failure,21.27
+2023-05-28,Executives,sms,success,63.39
+2023-02-06,General Staff,email,failure,18.79
+2023-04-16,IT,email,failure,31.39
+2023-05-12,Finance,email,failure,23.76
+2023-03-28,General Staff,social_media,failure,24.78
+2023-02-02,General Staff,website,failure,27.57
+2023-04-06,HR,website,success,73.56
+2023-06-02,IT,email,success,57.93
+2023-03-15,Finance,email,failure,27.27
+2023-04-29,HR,email,failure,22.1
+2023-01-18,General Staff,website,failure,22.54
+2023-06-24,HR,sms,failure,22.01
+2023-04-13,HR,email,failure,25.87
+2023-06-04,Finance,sms,success,78.87
+2023-04-28,HR,website,failure,16.81
+2023-02-20,General Staff,email,failure,24.34
+2023-04-24,IT,email,failure,20.36
+2023-05-26,General Staff,sms,success,81.86
+2023-05-11,Finance,email,failure,31.36
+2023-03-15,HR,sms,success,54.63
+2023-01-16,Finance,email,failure,25.72
+2023-02-21,General Staff,email,success,78.54
+2023-05-06,HR,sms,failure,16.94
+2023-04-10,General Staff,email,failure,23.3
+2023-01-12,HR,email,failure,27.26
+2023-06-15,Executives,email,success,62.96
+2023-05-25,General Staff,email,success,64.85
+2023-04-28,General Staff,website,failure,19.7
+2023-05-04,Finance,social_media,failure,21.33
+2023-06-16,HR,website,failure,25.2
+2023-02-06,HR,email,failure,23.44
+2023-01-29,IT,email,failure,24.92
+2023-01-28,Finance,email,failure,24.21
+2023-03-03,HR,email,failure,28.18
+2023-05-25,HR,email,success,52.96
+2023-02-06,HR,email,failure,29.02
+2023-03-03,HR,email,success,59.48
+2023-01-16,HR,email,failure,34.05
+2023-02-12,General Staff,email,failure,24.36
+2023-01-03,Finance,email,failure,24.48
+2023-05-18,Executives,email,failure,32.38
+2023-02-04,Executives,email,failure,20.78
+2023-06-22,General Staff,email,success,84.12
+2023-03-10,Finance,website,failure,19.26
+2023-05-10,General Staff,email,failure,22.95
+2023-03-02,General Staff,email,failure,27.59
+2023-02-01,General Staff,email,failure,29.28
+2023-01-22,General Staff,email,failure,20.57
+2023-06-24,IT,sms,failure,35.82
+2023-01-02,Finance,email,failure,20.28
+2023-02-11,Finance,email,failure,24.33
+2023-01-30,Finance,sms,success,74.29
+2023-04-03,Executives,email,failure,19.85
+2023-03-24,IT,email,success,67.18
+2023-01-23,Finance,email,failure,23.86
+2023-03-02,Finance,sms,failure,21.75
+2023-01-14,HR,email,failure,30.95
+2023-03-10,Executives,sms,success,71.22
+2023-02-12,HR,sms,failure,19.66
+2023-01-13,General Staff,sms,failure,24.32
+2023-03-15,General Staff,sms,failure,19.33
+2023-01-19,Finance,sms,failure,25.28
+2023-04-28,HR,email,failure,17.49
+2023-03-05,IT,sms,failure,22.07
+2023-04-13,General Staff,email,failure,23.37
+2023-05-31,Finance,email,success,69.31
+2023-01-11,IT,sms,failure,23.46
+2023-04-19,Finance,sms,success,76.14
+2023-01-20,IT,sms,failure,27.27
+2023-06-02,Executives,email,success,69.99
+2023-02-26,Finance,website,success,86.87
+2023-04-28,IT,email,failure,18.8
+2023-05-29,Finance,sms,failure,30.91
+2023-04-04,Executives,sms,failure,25.02
+2023-02-13,HR,social_media,failure,21.19
+2023-01-29,Finance,email,success,82.62
+2023-03-11,HR,sms,success,75.04
+2023-01-03,General Staff,email,success,75.88
+2023-04-20,IT,sms,failure,23.36
+2023-06-12,Finance,email,success,86.59
+2023-06-27,General Staff,sms,failure,27.24
+2023-06-18,Finance,email,failure,27.48
+2023-02-16,Finance,email,success,68.58
+2023-02-17,IT,social_media,failure,18.77
+2023-05-14,Finance,social_media,success,84.37
+2023-02-18,Finance,social_media,success,60.81
+2023-01-22,HR,email,success,86.36
+2023-01-14,IT,website,success,68.13
+2023-04-29,Finance,sms,failure,29.06
+2023-06-17,IT,email,failure,23.02
+2023-01-23,Finance,email,failure,22.57
+2023-06-08,Finance,social_media,failure,22.49
+2023-06-30,General Staff,social_media,success,69.58
+2023-01-08,Finance,email,failure,18.3
+2023-03-09,HR,email,failure,24.5
+2023-01-02,Finance,sms,failure,28.97
+2023-04-13,General Staff,sms,failure,27.8
+2023-06-20,Executives,sms,success,72.8
+2023-01-31,Finance,email,failure,26.81
+2023-06-21,General Staff,social_media,failure,28.27
+2023-01-02,Executives,email,success,76.63
+2023-04-30,Finance,sms,failure,23.29
+2023-04-27,General Staff,sms,failure,19.72
+2023-03-12,Finance,email,success,54.45
+2023-02-02,General Staff,social_media,success,83.04
+2023-06-22,General Staff,social_media,failure,23.6
+2023-02-22,Finance,email,failure,29.89
+2023-05-17,Finance,email,success,76.93
+2023-05-17,Executives,sms,failure,28.67
+2023-04-24,HR,social_media,failure,20.2
+2023-02-26,HR,email,success,81.68
+2023-02-02,IT,email,failure,24.95
+2023-05-17,Finance,sms,failure,23.86
+2023-06-08,Finance,email,failure,22.2
+2023-04-18,General Staff,email,success,75.87
+2023-06-23,General Staff,email,success,79.97
+2023-06-12,Finance,social_media,failure,20.76
+2023-02-09,Executives,email,failure,31.15
+2023-06-04,HR,email,failure,27.59
